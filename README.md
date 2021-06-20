@@ -1,5 +1,8 @@
 # Machine-learning-Machine
 
+수업내용
+https://opentutorials.org/module/4916
+
 웹캠을 이용하여 강아지 인지 고양이 인지 알 수 있다.
 
 https://ml-app.yah.ac/
