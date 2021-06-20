@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=E3wR1d6vcqQ&list=PLuHgQVnccGMDy5oF7G5WYxLF3NCYhB
 https://bit.ly/ml-other-plan
 
 https://bit.ly/ml1-regression-list
+
+https://bit.ly/ml1-class-list
