@@ -21,3 +21,6 @@ https://bit.ly/ml1-class-list
 
 머신러닝 1  - 강화학습의 사례 (Responses)
 https://bit.ly/ml1-reinforcement-list
+
+
+![12287](https://user-images.githubusercontent.com/83889135/122678331-58c52180-d221-11eb-8dfa-392920312b1e.jpeg)
